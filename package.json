@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Nabucodono5or/d3-learning#readme",
   "dependencies": {
-    "d3": "^5.16.0"
+    "d3": "^7.6.1"
   }
 }
